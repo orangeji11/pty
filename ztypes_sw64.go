@@ -1,5 +1,5 @@
-//go:build sw_64
-// +build sw_64
+//go:build sw64
+// +build sw64
 
 // Created by cgo -godefs - DO NOT EDIT
 // cgo -godefs types.go
